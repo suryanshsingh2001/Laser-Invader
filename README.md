@@ -12,7 +12,7 @@ use space to shoot the bullets
 
 ## Game Overview
 ### Main Menu Screen
-![Main Menu](https://raw.githubusercontent.com/suryanshsingh2001/Laser-Invader/main/Screenshots/Screenshot%202022-08-07%20215602.png?token=GHSAT0AAAAAABXMUHPMPXRDYVVJEU4F7VNWYXP5RKA)
+![Main Menu](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Screenshot%202022-08-07%20215602.png?raw=true)
 
 ### Game Screen
 ![Game](https://raw.githubusercontent.com/suryanshsingh2001/Laser-Invader/main/Screenshots/Screenshot%202022-08-07%20215808.png?token=GHSAT0AAAAAABXMUHPNS5YCRZCK3ZWCSKUYYXP5RQQ)
