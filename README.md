@@ -18,4 +18,4 @@ use space to shoot the bullets
 ![Game](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Screenshot%202022-08-07%20215808.png?raw=true)
 
 ### Game Over Screen
-![GameOver]([https://raw.githubusercontent.com/suryanshsingh2001/Laser-Invader/main/Screenshots/Screenshot%202022-08-07%20220135.png?token=GHSAT0AAAAAABXMUHPMGBWPLAE6ZEW5POZKYXP5RVA](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Screenshot%202022-08-07%20220135.png?raw=true))
+![GameOver](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Screenshot%202022-08-07%20220135.png?raw=true)
