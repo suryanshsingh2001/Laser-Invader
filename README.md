@@ -1,6 +1,7 @@
 # Laser Invader 
-[Download Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
 
+![Title](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Screenshot%202022-08-07%20215602.png?raw=true)
+[Download Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
 
 ## About
 A 2D Space Shooter themed game.
