@@ -1,6 +1,9 @@
 # Laser Invader 
 
-![Title](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Screenshot%202022-08-07%20215602.png?raw=true)
+![Title](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Title%20.png)
+
+
+
 [Download Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
 
 ## About
