@@ -13,7 +13,7 @@ public class PathFinder : MonoBehaviour
 
 
 
-    private void Awake()
+    void Awake()
     {
         enemySpawner = FindObjectOfType<EnemySpawner>();
     }
