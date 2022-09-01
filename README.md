@@ -2,6 +2,7 @@
 
 ![Title](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Title%20.png)
 
+![Watch Gameplay](https://youtu.be/pcehQcYPnUM)
 
 
 [Play Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
