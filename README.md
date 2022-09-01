@@ -1,11 +1,8 @@
 # Laser Invader 
 
-![Title](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Title%20.png)
+[![Video](https://img.youtube.com/vi/pcehQcYPnUM/0.jpg)](https://www.youtube.com/watch?v=pcehQcYPnUM)
 
-[![Watch the video](https://img.youtube.com/vi/pcehQcYPnUM/maxresdefault.jpg)](https://www.youtube.com/watch?v=pcehQcYPnUM)
-
-
-https://youtu.be/pcehQcYPnUM
+[Play Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
 
 ## About
 A 2D Space Shooter themed game.
