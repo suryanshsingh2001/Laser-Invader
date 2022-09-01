@@ -5,7 +5,7 @@
 [![Watch the video](https://img.youtube.com/vi/pcehQcYPnUM/maxresdefault.jpg)](https://www.youtube.com/watch?v=pcehQcYPnUM)
 
 
-[Play Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
+https://youtu.be/pcehQcYPnUM
 
 ## About
 A 2D Space Shooter themed game.
