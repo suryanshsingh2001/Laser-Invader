@@ -1,8 +1,6 @@
 # Laser Invader 
 
-![Title](https://github.com/suryanshsingh2001/Laser-Invader/blob/main/Screenshots/Title%20.png)
-
-
+[![Video](https://img.youtube.com/vi/pcehQcYPnUM/0.jpg)](https://www.youtube.com/watch?v=pcehQcYPnUM)
 
 [Play Now](https://suryanshsingh2001.itch.io/laser-invader-2d)
 
